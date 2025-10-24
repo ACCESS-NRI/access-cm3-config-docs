@@ -405,7 +405,7 @@ jobs:
     # Need to specify this conition because otherwise this job might be skipped if
     # any job needed by this job's needed job(s) is skipped (e.g., if a job needed by set-website-structure is skipped)
     # Reference: https://github.com/actions/runner/issues/2205
-    if: ${{ always() && ! failure() }}
+    if: ${{ always() && needs.set-website-structure.result == 'success' }}
     permissions:
       pages: write # to deploy to Pages
       id-token: write # to verify the deployment originates from an appropriate source
@@ -417,7 +417,7 @@ jobs:
   pr-preview:
     needs: [get-date, get-prs-info, deploy]
     # Run this job only if there are open PRs
-    if: ${{ always() && ! failure() && needs.get-prs-info.outputs.open_prs_info != '' }}
+    if: ${{ always() && needs.deploy.result == 'success' && needs.get-prs-info.outputs.open_prs_info != '' }}
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
