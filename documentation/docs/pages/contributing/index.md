@@ -14,7 +14,7 @@ We have a community based group the "CM3 Dev-Eval Working group" that are helpin
 
 There's agenda (before the meeting) and minutes (after) the meetings [here](https://forum.access-hive.org.au/t/cm3-dev-eval-working-group-meeting-minutes-2025/5393), anyone can share a figure or contribute to the agenda. 
 
-All community members (and ACCESS-NRI staff) can get [write access to the CM3 evaluation repository](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/). To get write access, you need to create an issue and request access, [please use this issue template](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/issues/new?template=add-user-request-to--access-cm3-1-repository-.md). Evaluation figures are being coordinated [here](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/issues/1). Further instructions are [here](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/blob/main/README.md).
+All community members (and ACCESS-NRI staff) can get write access to the [CM3 evaluation repository](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/). To get write access, you need to create an issue and request access [using this issue template](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/issues/new?template=add-user-request-to--access-cm3-1-repository-.md). Evaluation figures are being coordinated [here](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/issues/1). If you want to get involved, find more information in the [evaluation README](https://github.com/ACCESS-Community-Hub/access-cm3-paper-1/blob/main/README.md).
 
 ### Report a bug or make a suggestion
 
