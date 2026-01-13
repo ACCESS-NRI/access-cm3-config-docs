@@ -4,7 +4,7 @@
 site_name: access-cm3-configs
 
 # Site URL
-site_url: !ENV [SITE_URL, "http://access-nri.github.io/access-cm3-configs/"]
+site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 # Git repository (Adds a link to the GitHub repository at the top)
 repo_url: https://github.com/ACCESS-NRI/access-cm3-config-docs
@@ -63,8 +63,6 @@ plugins:
   - bibtex:
       bib_file: references.bib
       csl_file: https://raw.githubusercontent.com/citation-style-language/styles/26eccff9e537f71494a4da7b91afac1adf571dc9/apa.csl
-  - events:
-      events_dir: community_resources/events/events
 
 markdown_extensions: 
   - attr_list
