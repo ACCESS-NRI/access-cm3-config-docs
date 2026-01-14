@@ -4,7 +4,8 @@ There are several ways we welcome feedback and contributions on ACCESS-CM3 devel
 
 ### Interact with developers in person
 
-If you would like to interact in person with the development team, we have regular technical meetings that [are announced here](https://forum.access-hive.org.au/t/access-cm3-technical-meetings-announce/5418) (subscribe to this thread for notifications), the meetings are held on every second Wednesday 2-3pm. Meeting minutes are [also on the forum](https://forum.access-hive.org.au/t/access-cm3-technical-meeting-minutes/5429). Everyone is welcome to suggest agenda items and participate (see announce thread for agenda). If you'd like to come, best to get in touch on [the ACCESS-Hive forum](https://forum.access-hive.org.au/c/esm/coupled-model/71) or just join a meeting ([zoom link](https://anu.zoom.us/j/83117761719?pwd=DGwVcKiyoaoVJhRp5tc5rPWYD7ZlO5.1)).
+If you would like to interact in person with the development team, we have regular technical meetings that [are announced here](https://forum.access-hive.org.au/t/access-cm3-technical-meetings-announce/5418) (subscribe to this thread for notifications), the meetings are held on every second Wednesday 2-3pm. Meeting minutes are [also on the forum](https://forum.access-hive.org.au/t/access-cm3-technical-meeting-minutes/5429). Everyone is welcome to suggest agenda items and participate (see announce thread for agenda). If you'd like to come, best to get in touch on [the ACCESS-Hive forum](https://forum.access-hive.org.au/c/esm/coupled-model/71) or just join a meeting ([zoom link](
+https://anu.zoom.us/j/81546176367?pwd=Q2MfPNfBxRqaK17zTWENuOkjQOacbO.1)).
 
 We also manage most of our development openly on GitHub, we track CM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/15/views/1). If you'd like to have your issue considered for CM3 development, please [open an issue](https://github.com/ACCESS-NRI/dev_coupling/issues/new).
 
