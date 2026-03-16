@@ -96,6 +96,7 @@ markdown_extensions:
 # Navigation
 nav:
   - Home:                            pages/index.md
+  - Experiments:                     pages/Experiments.md
   - Contributing:          
         - Contributing overview:     pages/contributing/index.md   
   - Model Components:
